@@ -57,22 +57,11 @@ A project exploring multilingual capabilities and language processing.
 - **Tech:** Python
 - **Highlights:** Language processing, multilingual support
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaMallela041&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMallela041&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaMallela041&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaMallela041&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=AdityaMallela041&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaMallela041&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMallela041&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📫 Connect With Me
 
@@ -90,9 +79,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaMallela041&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
+[![](https://visitcount.itsvg.in/api?id=AdityaMallela041&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <div align="center">
   
